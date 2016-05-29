@@ -1,0 +1,28 @@
+{
+  "name": "ng-d3-heatmap",
+  "authors": [
+    "Hardik Sondagar <hardikmsondagar@gmail.com>"
+  ],
+  "description": "Angular directive for D3 heatmap",
+  "main": "index.html",
+  "keywords": [
+    "d3",
+    "angular",
+    "heatmap"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.6",
+    "bootstrap": "^3.3.6",
+    "angular-ui-router": "^0.3.0",
+    "jquery": "^2.2.4"
+  }
+}
